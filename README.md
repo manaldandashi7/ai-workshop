@@ -7,10 +7,10 @@ control with Git & GitHub, and real project deployment.
 ## 📓 Notebooks
 
 ### Chatbot Workshop
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruwwad/ai-workshop/blob/main/chatbot_workshop_colab.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaldandashi7/ai-workshop/blob/main/chatbot_workshop_colab.ipynb)
 
 ### Sentiment Experiment
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruwwad/ai-workshop/blob/main/sentiment_experiment.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaldandashi7/ai-workshop/blob/main/sentiment_experiment.ipynb)
 
 ## 🛠️ Requirements
 - A Google account (for Colab)
