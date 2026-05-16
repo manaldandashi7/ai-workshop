@@ -12,6 +12,9 @@ control with Git & GitHub, and real project deployment.
 ### Sentiment Experiment
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaldandashi7/ai-workshop/blob/main/sentiment_experiment.ipynb)
 
+### Database
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaldandashi7/ai-workshop/blob/main/connetingTo%20Database.ipynb)
+
 ## 🛠️ Requirements
 - A Google account (for Colab)
 - An OpenAI API key
